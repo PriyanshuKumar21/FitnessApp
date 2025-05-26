@@ -1,16 +1,29 @@
-# temp_fitness_app
+# Fitness App
 
-A new Flutter project.
+A comprehensive mobile fitness application built with Flutter that helps users track their workouts, monitor progress, and maintain a healthy lifestyle.
+
+## Features
+
+- Workout tracking and planning
+- Progress visualization with charts
+- Step counting and activity monitoring
+- Custom exercise library
+- Data import/export functionality
+- Customizable fitness goals
+- Local notifications for workout reminders
+
+## Technical Details
+
+Built using Flutter with a SQLite database for local storage. Implements various device sensors for activity tracking and uses modern UI components for an intuitive user experience.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+1. Clone the repository
+2. Run `flutter pub get` to install dependencies
+3. Connect a device or start an emulator
+4. Run `flutter run` or use one of the provided batch scripts
 
-A few resources to get you started if this is your first Flutter project:
+## Requirements
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Flutter SDK ≥3.2.3
+- Dart SDK ≥3.2.3
